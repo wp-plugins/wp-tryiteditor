@@ -9,7 +9,7 @@ License URI: http://www.gnu.org/licenses/gpl.html
 
 == Description ==
 Simple front end editor for WordPress.
-* 
+
 
 == Installation ==
 
