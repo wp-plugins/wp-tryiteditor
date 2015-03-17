@@ -1,5 +1,5 @@
 === wp-tryiteditor ===
-Contributors: takeda, yuji
+Contributors: takeda-yuji
 Tags: inline, editor, isual, wysiwyg  
 Requires at least: 3.2  
 Tested up to: 4.1.1  
@@ -30,6 +30,6 @@ This plugin works for simple editing, can not edit include "short code".
 
 == Changelog ==
 
-= 0.40 =
+= 0.40c =
 * Initial release
 
